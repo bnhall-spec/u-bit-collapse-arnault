@@ -98,4 +98,3 @@ If you use this data or refer to this work, please cite the arXiv preprint:
 ## License
 
 The paper and dataset are released for academic and research use.  
-(Insert specific license here if desired.)
