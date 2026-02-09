@@ -1,5 +1,7 @@
 # U-Bit Collapse in Arnault Composites
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18530443.svg)](https://doi.org/10.5281/zenodo.18530443)
+
 This repository contains the paper and dataset accompanying the arXiv preprint:
 
 **U-Bit Collapse in Arnault Composites: Probing the Boundary of Strong Lucas Pseudoprimes**  
