@@ -87,11 +87,25 @@ The composites analyzed were generated using a high-throughput Arnault-based con
 
 ---
 
-## Citation
+## Cite this Work
 
-If you use this data or refer to this work, please cite the arXiv preprint:
+If you use this software or dataset in your research, please cite it as:
 
-> Bowman Hall, *U-Bit Collapse in Arnault Composites: Probing the Boundary of Strong Lucas Pseudoprimes*, arXiv, 2026.
+**APA:**
+Hall, B. (2026). *U-Bit Collapse in Arnault Composites* (Version 1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.18530443
+
+**BibTeX:**
+```bibtex
+@misc{hall2026ubitcollapse,
+  author = {Hall, Bowman},
+  title = {U-Bit Collapse in Arnault Composites},
+  year = {2026},
+  version = {1.0},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.18530443},
+  url = {https://doi.org/10.5281/zenodo.18530443}
+}
+
 
 ---
 
