@@ -1,7 +1,7 @@
 # U-Bit Collapse in Arnault Composites
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18530443.svg)](https://doi.org/10.5281/zenodo.18530443)
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2601.19817-b31b1b.svg)](https://arxiv.org/abs/2601.19817)
 
 
 This repository contains the paper and dataset accompanying the arXiv preprint:
